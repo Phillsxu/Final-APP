@@ -1,0 +1,6 @@
+framework module Pods_Black_Eyed_Peas_Black_Eyed_PeasUITests {
+  umbrella header "Pods-Black Eyed Peas-Black Eyed PeasUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
